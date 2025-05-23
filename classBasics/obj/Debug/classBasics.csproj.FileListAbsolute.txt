@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\classBasics\bin\Debug\classBasics.exe.config
+C:\Users\LENOVO\source\repos\classBasics\bin\Debug\classBasics.exe
+C:\Users\LENOVO\source\repos\classBasics\bin\Debug\classBasics.pdb
+C:\Users\LENOVO\source\repos\classBasics\obj\Debug\classBasics.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\classBasics\obj\Debug\classBasics.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\classBasics\obj\Debug\classBasics.exe
+C:\Users\LENOVO\source\repos\classBasics\obj\Debug\classBasics.pdb

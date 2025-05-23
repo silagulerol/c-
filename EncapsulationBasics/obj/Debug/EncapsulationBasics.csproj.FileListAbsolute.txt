@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\EncapsulationBasics\bin\Debug\EncapsulationBasics.exe.config
+C:\Users\LENOVO\source\repos\EncapsulationBasics\bin\Debug\EncapsulationBasics.exe
+C:\Users\LENOVO\source\repos\EncapsulationBasics\bin\Debug\EncapsulationBasics.pdb
+C:\Users\LENOVO\source\repos\EncapsulationBasics\obj\Debug\EncapsulationBasics.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\EncapsulationBasics\obj\Debug\EncapsulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EncapsulationBasics\obj\Debug\EncapsulationBasics.exe
+C:\Users\LENOVO\source\repos\EncapsulationBasics\obj\Debug\EncapsulationBasics.pdb

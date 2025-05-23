@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\InheritanceBasics\bin\Debug\InheritanceBasics.exe.config
+C:\Users\LENOVO\source\repos\InheritanceBasics\bin\Debug\InheritanceBasics.exe
+C:\Users\LENOVO\source\repos\InheritanceBasics\bin\Debug\InheritanceBasics.pdb
+C:\Users\LENOVO\source\repos\InheritanceBasics\obj\Debug\InheritanceBasics.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\InheritanceBasics\obj\Debug\InheritanceBasics.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\InheritanceBasics\obj\Debug\InheritanceBasics.exe
+C:\Users\LENOVO\source\repos\InheritanceBasics\obj\Debug\InheritanceBasics.pdb

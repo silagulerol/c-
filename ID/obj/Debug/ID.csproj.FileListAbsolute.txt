@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\ID\bin\Debug\ID.exe.config
+C:\Users\LENOVO\source\repos\ID\bin\Debug\ID.exe
+C:\Users\LENOVO\source\repos\ID\bin\Debug\ID.pdb
+C:\Users\LENOVO\source\repos\ID\obj\Debug\ID.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ID\obj\Debug\ID.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ID\obj\Debug\ID.exe
+C:\Users\LENOVO\source\repos\ID\obj\Debug\ID.pdb

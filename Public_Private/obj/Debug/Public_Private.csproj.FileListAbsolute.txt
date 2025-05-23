@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\Public_Private\bin\Debug\Public_Private.exe.config
+C:\Users\LENOVO\source\repos\Public_Private\bin\Debug\Public_Private.exe
+C:\Users\LENOVO\source\repos\Public_Private\bin\Debug\Public_Private.pdb
+C:\Users\LENOVO\source\repos\Public_Private\obj\Debug\Public_Private.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Public_Private\obj\Debug\Public_Private.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Public_Private\obj\Debug\Public_Private.exe
+C:\Users\LENOVO\source\repos\Public_Private\obj\Debug\Public_Private.pdb
